@@ -1,0 +1,44 @@
+{
+    "posts": [
+        {
+            "postID": "1",
+            "userID": "1",
+            "title": "‘I’m Not About To Be The Next Trayvon Martin’: Miami Police Brutality Victim From Viral Video Demands Justice",
+            "description": "An unarmed and peaceful Florida woman violently tackled in a case of apparent unprovoked police brutality this month has lawyered up and was demanding that the officers involved be held accountable.",
+            "img": "https://thumbnailpics.blob.core.windows.net/pics/thumbnail.png",
+            "location": "",
+            "link": "https://newsone.com/3848957/dyma-loving-miami-police-brutality-video/",
+            "department": "Miami-Dade"
+        },
+        {
+            "postID": "2",
+            "userID": "1",
+            "title": "Miami Beach Police Accused of Racism After Numerous Videos of Violence Against Black Spring Breakers Go Viral",
+            "description": "The Miami Beach Police Department is being accused of racially profiling and overpolicing Black spring breakers.            Videos of violent confrontations between Black spring breakers and police officers circulated around Twitter over the weekend. In one video, officers were trying to disperse a crowd after a fight broke out.  ",
+            "img": "https://thumbnailpics.blob.core.windows.net/pics/clements_miami_beach_police.jpg",
+            "location": "",
+            "link": "https://www.miaminewtimes.com/news/miami-beach-spring-break-naacp-says-police-chief-must-resign-11596882 ",
+            "department": "Miami Beach"
+        },
+        {
+            "postID": "3",
+            "userID": "1",
+            "title": "Miami Beach Cops Fired Taser, Shouted N-Word at Man Recording Them, Lawsuit Alleges",
+            "description": "Ronald Saint-Vil arrived at the SLS Hotel in South Beach in November 2017 to help raise money for victims of Hurricanes Irma and Maria. But he says he wound up a victim of police brutality instead. In a new lawsuit, Saint-Vil says Miami Beach cops shouted the N-word at him and stunned him with a Taser until he threw up — all because he was recording them on his cell phone.",
+            "img": "https://thumbnailpics.blob.core.windows.net/pics/miami-beach-police.jpg",
+            "location": "SLS Hotel in South Beach",
+            "link": "https://www.miaminewtimes.com/news/lawsuit-miami-beach-police-tased-man-recording-them-used-racial-slur-11314773",
+            "department": "Miami Beach"
+        },
+        {
+            "postID": "5",
+            "userID": "1",
+            "title": "Miami-Dade school resource officer caught on camera threatening to shoot students",
+            "description": "A school resource officer is being blasted by students at North Miami Senior High School after cellphone video captured her shouting profanities and threatening students.",
+            "img": "https://thumbnailpics.blob.core.windows.net/pics/pic.png",
+            "location": "",
+            "link": "https://www.local10.com/news/local/2020/02/05/miami-dade-school-resource-officer-caught-on-camera-threatening-to-shoot-students/",
+            "department": "Miami Dade School Resource Officer"
+        }        
+    ]
+}

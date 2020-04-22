@@ -1,0 +1,17 @@
+{
+    "comments": [
+        {
+            "postID": "1", 
+            "userID": "1",
+            "commentID": "1",                        
+            "Title": "comment 1 post 1"
+        },
+        {
+
+            "postID": "2", 
+            "userID": "1",
+            "commentID": "1",                        
+            "Title": "comment 1 post 2"
+        }
+    ]
+}
