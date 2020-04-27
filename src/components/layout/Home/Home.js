@@ -1,9 +1,8 @@
 import React, { useState, Component } from 'react'
 
-import Pagination from './Pagination'
-import Posts from './Posts'
-import data from '../data/data.json'
-
+import Pagination from '../../Pagination'
+import Posts from '../../Posts'
+import data from '../../../data/data.json'
 
 
 export default function Home() {
