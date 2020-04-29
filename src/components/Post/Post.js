@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
-import data from '../data/data.json'
+import data from '../../data/data.json'
 
 export default function Post({ match }) {
    // inefficient but ok for now

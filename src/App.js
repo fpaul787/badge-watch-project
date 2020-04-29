@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 
 import {Navbar, Home} from "./components/exports"
 
-import Post from './components/Post'
+import {Post} from './components/exports'
 
 function App() {
    return (
@@ -15,10 +15,8 @@ function App() {
                <Navbar />
                <Switch>
                   <Route exact path="/" component={Home} />
-                  <Route exact path="/post/:id" component={Post}/>
-                  
+                  <Route exact path="/post/:id" component={Post}/>                  
                </Switch>
-
             </div>
          </Router>
       </div>
