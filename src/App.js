@@ -3,9 +3,10 @@ import React from 'react'
 import './App.css'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 
-import {Navbar, Home} from "./components/exports"
+import {Navbar, Home, LogIn, Register} from "./components/exports"
 
 import {Post} from './components/exports'
+
 
 function App() {
    return (
@@ -14,8 +15,12 @@ function App() {
             <div>
                <Navbar />
                <Switch>
+                  <Route exact path="/login" component={LogIn} />
+                  <Route exact path="/register" component={Register} />
                   <Route exact path="/" component={Home} />
-                  <Route exact path="/post/:id" component={Post}/>                  
+                  <Route exact path="/post/:id" component={Post}/>   
+                  
+                               
                </Switch>
             </div>
          </Router>
