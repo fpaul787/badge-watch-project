@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-badgewatch-dev-93545-authRole",
+            "UnauthRoleArn": "arn:aws:iam::735824413036:role/amplify-badgewatch-dev-93545-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::735824413036:role/amplify-badgewatch-dev-93545-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-badgewatch-dev-93545-deployment",
+            "UnauthRoleName": "amplify-badgewatch-dev-93545-unauthRole",
+            "StackName": "amplify-badgewatch-dev-93545",
+            "StackId": "arn:aws:cloudformation:us-east-1:735824413036:stack/amplify-badgewatch-dev-93545/5607b8a0-8a1e-11ea-9218-0a87c278b5b5",
+            "AmplifyAppId": "d7pu0simvbrmz"
+        }
+    }
+}
