@@ -1,0 +1,5 @@
+So you want to redux?
+
+1. Create a store folder
+2. In the store folder, create actions and reducers folder
+3. create store.js file
