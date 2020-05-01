@@ -1,4 +1,4 @@
-import React, { useState, Component } from 'react'
+import React, { useState } from 'react'
 
 import Pagination from '../../utility/Pagination'
 import Posts from '../../Posts/'
